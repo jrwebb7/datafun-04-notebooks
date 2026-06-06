@@ -1,6 +1,6 @@
 """app_case.py - Project script (example).
 
-Author: Denise Case
+Author: James Webb
 Date: 2026-04
 
 Purpose:

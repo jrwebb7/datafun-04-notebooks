@@ -3,7 +3,7 @@
 ## WEDNESDAY: Complete Workflow Phases 1-3
 
 Follow the instructions in
-[⭐ **Workflow: Apply Example**](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/)
+[⭐ **Workflow: Apply Example**](https://jrwebb7.github.io/pro-analytics-02/workflow-b-apply-example-project/)
 to complete:
 
 1. Phase 1. **Start & Run** - copy the project and confirm it runs
