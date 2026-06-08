@@ -23,3 +23,17 @@ to get these projects running on your machine.
   - [RESOURCES.md](./module/RESOURCES.md)
   - [seaborn-datasets.md](./module/seaborn-datasets.md)
   - [TROUBLESHOOTING.md](./module/TROUBLESHOOTING.md)
+
+## Custom Project
+
+### Dataset
+
+For my custom project, I used the Seaborn Tips dataset. This dataset contains information about restaurant bills, tip amounts, party size, smoking status, day of the week, and meal time.
+
+### Phase 4 Modifications
+
+For Phase 4, I created a new file named `app_webb.py` and modified the title of the correlation matrix heatmap. This allowed me to verify that I could successfully modify the source code and see the changes reflected in the output.
+
+### Phase 5 Custom Project
+
+For Phase 5, I created a custom notebook named `eda_webb_custom.ipynb` and adapted the original penguins analysis to the Tips dataset. I explored summary statistics, relationships between total bill and tip amount, and visualized tipping behavior across different days of the week.
